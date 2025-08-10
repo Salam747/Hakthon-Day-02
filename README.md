@@ -86,5 +86,4 @@ Thanks for stopping by—let’s build something great together!
 - **Actionable**: Offers next steps for future development and invites collaboration.
 - **Visual reference**: Mentions mockups and diagrams to give readers a mental picture.
 
-If you'd like stylistic tweaks, a badge section, or to highlight specific PDFs further—just say the word!
-::contentReference[oaicite:0]{index=0}
+
